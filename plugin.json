@@ -1,0 +1,12 @@
+{
+  "ID": "D2D2C23B084D411DB66FE0C79D6C2B7H",
+  "ActionKeyword": "b",
+  "Name": "Bookmarks 360se",
+  "Description": "Search 360se Bookmarks",
+  "Author": "lunachy",
+  "Version": "1.0",
+  "Language": "python",
+  "Website": "https://github.com/lunachy/wox_bookmarks_360se",
+  "IcoPath": "Images\\app.ico",
+  "ExecuteFileName": "main.py"
+}
